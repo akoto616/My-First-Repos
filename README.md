@@ -22,10 +22,10 @@ But as I said earlier:
 * donna
 
 
-1. Akoto
-2. Donna
-3. Lope
-4. Michael
+* Akoto
+* Donna
+* Lope
+* Michael
 
 
 
