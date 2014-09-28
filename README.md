@@ -18,16 +18,13 @@ But as I said earlier:
 
 * lope
 * akoto
-* michael
 * donna
-
+* michael
 
 * Akoto
-* Donna
 * Lope
+* Donna
 * Michael
-
-
 
 1. Akoto
   1. Is Hungry
