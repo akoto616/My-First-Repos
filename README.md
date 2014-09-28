@@ -1,4 +1,4 @@
-My name is Akoto and I am excited about data journalism.
+My name is Akoto and I am excited about data journalism. Hi!
 
 Lope and I are in the hub doing data journalism homework.
 
