@@ -16,15 +16,9 @@ But as I said earlier:
 **I'm also learning bold.**
 **But bold _and_ italics is the best.**
 
-* lope
-* akoto
-* donna
-* michael
-
-* Akoto
-* Lope
-* Donna
-* Michael
+* Example 01
+* Example 02
+* Example 03
 
 1. Akoto
   1. Is Hungry
